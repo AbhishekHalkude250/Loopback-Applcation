@@ -1,0 +1,24 @@
+{
+  "db": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "coffee",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  },
+  "mongoDS2": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "coffee2",
+    "password": "",
+    "name": "mongoDS2",
+    "user": "",
+    "useNewUrlParser": false,
+    "connector": "mongodb"
+  }
+}
